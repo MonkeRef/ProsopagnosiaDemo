@@ -1,0 +1,61 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Teleporter
+  - Dialogue
+  - Cutscene
+  - EndDay
+  - InteractableDialogue
+  - RoutineGO
+  - Counter
+  - Minigame
+  - Customer
+  - Waypoint
+  - MinigameTrigger
+  - NextScene
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - InteractableObject
+  - Counter
+  - Misc
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Background
+    uniqueID: 3395442407
+    locked: 0
+  - name: Player
+    uniqueID: 1075802143
+    locked: 0
